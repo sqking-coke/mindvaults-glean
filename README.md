@@ -40,10 +40,10 @@ EOF
 
 | 命令 | 功能 |
 |------|------|
-| `/mindvaults on` | 开启自动收集 |
-| `/mindvaults off` | 暂停自动收集 |
-| `/mindvaults push` | 手动推送当前会话 |
-| `/mindvaults status` | 查看今日统计 |
+| `/mindvaults-glean on` | 开启自动收集 |
+| `/mindvaults-glean off` | 暂停自动收集 |
+| `/mindvaults-glean push` | 手动推送当前会话 |
+| `/mindvaults-glean status` | 查看今日统计 |
 
 ## 工作原理
 
